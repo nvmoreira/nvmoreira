@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BT Real State](https://github.com/nvmoreira/btre_project)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Python, Django, Docker**
+- 🌱 I’m currently learning **Java, Spring, Python, Django, Docker**
 
 - 📫 How to reach me **nvmoreira@id.uff.br**
 
