@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo3795
-Fork on GitHub686
 <h1 align="center">Hi 👋, I'm Natália Viveiros</h1>
 <h3 align="center">A Computer Science student and future backend developer from Brasil</h3>
 
