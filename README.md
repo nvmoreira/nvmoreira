@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java, Spring, Python, Django, Docker**
 
-- 📫 How to reach me **nvmoreira@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nataliaviveiros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nataliaviveiros" height="30" width="40" /></a>
