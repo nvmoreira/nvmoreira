@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Python, Django, Docker**
 
-- 📫 How to reach me **nvmoreira@id.uff.br**
+- 📫 How to reach me **nvmoreira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
